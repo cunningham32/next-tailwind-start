@@ -13,7 +13,7 @@ export default function Hero() {
                     <div className="mt-10 mb-10 ml-20 mr-20 card glass bg-opacity-5 text-neutral-content max-h-min">
                         <figure className="p-6">
                             <img
-                                src="/images/hero.gif"
+                                src="/images/hero-144.gif"
                                 className="rounded-lg shadow-lg"
                             />
                         </figure>
