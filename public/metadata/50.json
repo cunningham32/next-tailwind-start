@@ -1,0 +1,23 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmYAkzNiRRUguumu3Lkmi5F6ocu5xkw1YJeChohJfPqp3R/50.gif",
+    "tokenId": 50,
+    "name": "Lloyd Orc Prince",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Title",
+            "value": "Prince"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Lloyd"
+        }
+    ]
+}

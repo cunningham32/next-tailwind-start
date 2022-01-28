@@ -1,0 +1,23 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmYAkzNiRRUguumu3Lkmi5F6ocu5xkw1YJeChohJfPqp3R/252.gif",
+    "tokenId": 252,
+    "name": "Carey Soldier",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Title",
+            "value": "Soldier"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Carey"
+        }
+    ]
+}
