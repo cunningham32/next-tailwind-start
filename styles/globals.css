@@ -1,1 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+@font-face {
+    font-family: '4Mini';
+    src:url('/fonts/4Mini.ttf.woff') format('woff'),
+        url('/fonts/4Mini.ttf.svg#4Mini') format('svg'),
+        url('/fonts/4Mini.ttf.eot'),
+        url('/fonts/4Mini.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: '4Mini';
+}
+
+#hero-banner {
+    background-image: url('/images/village_004_1920x1080.png');
+}
